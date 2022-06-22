@@ -1,0 +1,1 @@
+echo "find -f type -iname '*~' -delete -print && find -type f -iname "#*#" -delete -print 
